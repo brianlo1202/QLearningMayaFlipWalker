@@ -1,4 +1,4 @@
-# QLearningMayaWalkers
+# QLearningMayaFlipWalker
 
 (See video of fully trained version)
 
