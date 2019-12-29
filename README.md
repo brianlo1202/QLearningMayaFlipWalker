@@ -2,7 +2,7 @@
 
 (See video of fully trained version)
 
-Using QLearning artificial intelligence, a one legged creature teaches itself to walk in a 3D world. Uses Autodesk Maya's Bullet Physics Engine. Algorithm based only on UC Berkeley's CS188 notes and coded from scratch in Python.
+Using QLearning artificial intelligence, a one legged creature learns to flip itself out of a stuck position and walk in a 3D world. Uses Autodesk Maya's Bullet Physics Engine. Algorithm based only on UC Berkeley's CS188 notes and coded from scratch in Python.
 
 The crawler was originally meant to crawl towards the direction of its arm. However, its arm's base was put too low and it was more efficient to push itself backwards than to pull forward.
 
